@@ -1,0 +1,5 @@
+setup.py
+vap_datasets.egg-info/PKG-INFO
+vap_datasets.egg-info/SOURCES.txt
+vap_datasets.egg-info/dependency_links.txt
+vap_datasets.egg-info/top_level.txt
