@@ -1,5 +1,8 @@
 source/*
-data/*
+data/*/*
+.cache
+!data/*/split
+vap_datasets_egg_info
 .out
 .log
 .sh
